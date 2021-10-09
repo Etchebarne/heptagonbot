@@ -1,0 +1,16 @@
+{
+	"help": {
+		"needsHelp": "¡%VAR% necesita ayuda!",
+		"commandList": "**Lista de comandos:** %VAR%"
+	},
+	"language": {
+		"languageUpdated": "¡Lenguaje actualizado correctamente!",
+		"speakIn": "Desde ahora hablaré en `%VAR%`.",
+		"chooseLanguage": "¡Elige un lenguaje!",
+		"cantChangeLang": "No puedes usar este comando en este server, necesitas el permiso `MANAGE_GUILD`."
+	},
+	"ping": {
+		"ping": "Latencia es de `%VAR%ms.`\n",
+		"apiPing": "Latencia de la API es de `%VAR%ms.`"
+	}
+}
